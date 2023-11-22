@@ -15,7 +15,7 @@ my journey began with chrono trigger, final fantasy, and ragnarok online. a quic
 in truth, my journey really began thanks to my parents. they have given me everything and continue to do so. they sacrificed their freedom to support and nurture me and my siblings. to adolfo gomez and maria gomez, i am forever grateful. i love you.
 
 
-<span id="b"><b>i work:</b></span>
+<span id="b"><b>my work:</b></span>
 <li>2009: i graduate high school. i thought i had made it and decided to follow an unconventional path. my life has been that ever since. cue: "<span id="c"><a href="https://www.youtube.com/watch?v=ql9-82oV2JE" target="_blank">you’re going to go far, kid</a></span>" and "<span id="c"><a href="https://www.youtube.com/watch?v=dvgZkm1xWPE" target="_blank">viva la vida."</a></span></li>
 <li>2012: i ran and became the ceo of godfruits, a christian publication that averaged millions in monthly impressions. i learned more about the internet, web traffic, and social media.</li>
 <li>2013: i met dogecoin.</li>
