@@ -13,17 +13,17 @@ my journey began with chrono trigger, final fantasy, and ragnarok online. a quic
 
 
 <span id="b"><b>i work:</b></span>
-<li>2009: i graduated from high school, thinking i had made it, and decided to follow an unconventional path. my life has been that ever since. cue: "<span id="c"><a href="https://www.youtube.com/watch?v=ql9-82oV2JE">you’re going to go far, kid</a></span>" and "<span id="c"><a href="https://www.youtube.com/watch?v=dvgZkm1xWPE">viva la vida."</a></span></li>
+<li>2009: i graduated from high school, thinking i had made it, and decided to follow an unconventional path. my life has been that ever since. cue: "<span id="c"><a href="https://www.youtube.com/watch?v=ql9-82oV2JE" target="_blank">you’re going to go far, kid</a></span>" and "<span id="c"><a href="https://www.youtube.com/watch?v=dvgZkm1xWPE" target="_blank">viva la vida."</a></span></li>
 <li>2012: i ran and became the ceo of godfruits, a christian publication that averaged millions in monthly impressions. i learned more about the internet, web traffic, and social media.</li>
 <li>2013: i met dogecoin.</li>
 <li>2014: i co-founded viralcharge with friends in colorado springs, an inspirational content-based website. we quickly became a top 1,000 website. i learned what it meant to be a terrible boss.</li>
 <li>2016: i became a partner and cmo at fishermen labs, an incredible design and development agency. i learned from smarter, more disciplined, and hardworking people.</li>
 <li>2017: i co-founded wild and west with my brothers quintin, cole, derek, and angel. we focused on digital marketing for e-commerce and non-profits. i learned what it meant to struggle.</li>
-<li>2022: i began advising <span><a href="https://admoffice.ae/">hh sheikh ahmed dalmook al maktoum</a></span> on venture and web3 investments. i learned about great humility, power, and leadership.</li>
-<li>2023: i met <span><a href="http://parax.ai">parallel</a></span>.</li>
+<li>2022: i began advising <span><a href="https://admoffice.ae/" target="_blank">hh sheikh ahmed dalmook al maktoum</a></span> on venture and web3 investments. i learned about great humility, power, and leadership.</li>
+<li>2023: i met <span><a href="http://parax.ai" target="_blank">parallel</a></span>.</li>
 
 <span id="b"><b>about me</b></span>
-<span id="c"><a href="https://www.youtube.com/watch?v=cmpRLQZkTb8">oasis</a></span>. japan. freak the mighty. your name. <span id="c"><a href="https://www.youtube.com/watch?v=qObraj124JM">nek</a></span>. czech republic. the rosie project. studio ghibli. <span id="c"><a href="https://www.youtube.com/watch?v=8uxt-FnNy2I">coldplay</a></span>. san francisco. high output management. v for vendetta. <span id="c"><a href="https://www.youtube.com/watch?v=q_71ctU9MzI">faye wong</a></span> dubai. the hard thing about hard things. the princess bride. <span id="c"><a href="https://www.youtube.com/watch?v=YEMEAxlYL04">the beatles</a></span>. mexico. hbr 10 must reads. the social network.
+<span id="c"><a href="https://www.youtube.com/watch?v=cmpRLQZkTb8" target="_blank">oasis</a></span>. japan. freak the mighty. your name. <span id="c"><a href="https://www.youtube.com/watch?v=qObraj124JM" target="_blank">nek</a></span>. czech republic. the rosie project. studio ghibli. <span id="c"><a href="https://www.youtube.com/watch?v=8uxt-FnNy2I" target="_blank">coldplay</a></span>. san francisco. high output management. v for vendetta. <span id="c"><a href="https://www.youtube.com/watch?v=q_71ctU9MzI" target="_blank">faye wong</a></span> dubai. the hard thing about hard things. the princess bride. <span id="c"><a href="https://www.youtube.com/watch?v=YEMEAxlYL04" target="_blank">the beatles</a></span>. mexico. hbr 10 must reads. the social network.
 
 
 thank you, God bless,
